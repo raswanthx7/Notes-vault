@@ -6,13 +6,13 @@ This is my personal collection of technical notes and quick references. I use th
 
 ---
 
-## 📄 License
+##  License
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ---
 
-## 📄 Attribution Notice
+##  Attribution Notice
 
 This repository and its content were created by **[Raswanth](https://github.com/raswanthx7)** for educational and self-learning purposes.
 
